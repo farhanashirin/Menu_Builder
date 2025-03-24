@@ -13,7 +13,8 @@ import "../../src/index.css"
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
 //API
-const API_URL = 'http://localhost:5000/api/menus';
+const API_URL = 'https://menu-builder-backend.onrender.com/api/menus';
+
 //Theme
 const themeColors = {
     dark: "#1a1a1a",
